@@ -1,0 +1,6 @@
+{
+  "name": "react-cross-platform-code-sharing",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
