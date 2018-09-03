@@ -58,3 +58,6 @@ There are four possible locations to install dependencies.
   - In this repository, I've used `moment.js` as an example of this kind of dependency.
 - In the shared folder for dependencies used only by the shared code
   - Note: there is no example of this in this repository.
+
+## Can I use this?
+Feel free to use this for whatever you want, there are [no conditions whatsoever](LICENSE).
