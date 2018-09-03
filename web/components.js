@@ -1,3 +1,7 @@
+/*
+ * Web specific components that are used by the shared component.
+ */
+
 import React from 'react';
 
 const centeredStyle = {

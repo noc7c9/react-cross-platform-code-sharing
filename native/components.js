@@ -1,3 +1,7 @@
+/*
+ * React Native components that are used by the shared component.
+ */
+
 import React from 'react';
 import { Text, View } from 'react-native';
 

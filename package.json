@@ -1,5 +1,6 @@
 {
   "name": "react-cross-platform-code-sharing",
+  "//": "Dependencies shared between both web and native can be placed here",
   "dependencies": {
     "moment": "^2.22.2"
   }
